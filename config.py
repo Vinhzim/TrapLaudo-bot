@@ -118,7 +118,7 @@ PING_IMG_URL = getenv(
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://64.media.tumblr.com/73084dccbeffd73655bb3a07cef7904a/ca2e3db2a56b2f2d-71/s540x810/747f6f9a572be30f47bb428e51aa66d9c2435b35.gifv",
+    "https://64.media.tumblr.com/e2e6eb90095d450447ff7ce607b18b55/b021ddfe0d679240-d9/s540x810/acbdb4ba69b40ea7755c8fdd7858c71e6aa31a9d.gifv",
 )
 
 GLOBAL_IMG_URL = getenv(
