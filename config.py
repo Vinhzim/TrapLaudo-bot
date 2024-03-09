@@ -123,7 +123,7 @@ PLAYLIST_IMG_URL = getenv(
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://64.media.tumblr.com/ac0bd0dbb6d9e3c7471630584e58b668/42dbca30b09f38f4-36/s1280x1920/ec602883a8242946698b201505bc7a47ac2f6afe.gifv",
+    "https://64.media.tumblr.com/b8e78bf58dec48e94792d174403e7649/15f4d0cf6aea574f-bd/s1280x1920/d7f85c27009a3a6fd1d4f930448580887b42c7a2.gifv",
 )
 
 STATS_IMG_URL = getenv(
