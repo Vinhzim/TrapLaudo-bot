@@ -113,7 +113,7 @@ START_IMG_URL = getenv(
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://64.media.tumblr.com/ea7bbbc05fe47c0306c2ac389eccc252/7724188deed06fee-a2/s1280x1920/3e5de4c6847843b79902a50a0873a58325551d55.gifv",
+    "https://64.media.tumblr.com/e0de2ed5ab9aae5de7dc72b2fd4f1259/96d8ee5c67e607c2-66/s400x600/01388c517dd4d9e898e12dba1725cd0b83c04788.gifv",
 )
 
 PLAYLIST_IMG_URL = getenv(
