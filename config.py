@@ -48,7 +48,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/gabrielmaialva33/winx-bot.git",
+    "https://github.com/Vinhzim/TrapLaudo-bot.git",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -58,10 +58,10 @@ GIT_TOKEN = getenv(
 PRIVATE_BOT_MODE = getenv("PRIVATE_BOT_MODE", False)
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/clubdaswinxcanal"
+    "SUPPORT_CHANNEL", "restrito"
 )  # Example:- https://t.me/politicament
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/winxmusicsupport"
+    "SUPPORT_GROUP", "restrito"
 )  # Example:- https://t.me/politicament
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
