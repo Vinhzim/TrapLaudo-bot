@@ -128,7 +128,7 @@ GLOBAL_IMG_URL = getenv(
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://64.media.tumblr.com/a98891c693052dd873231ab51b721421/d6aa089c4433b10c-24/s1280x1920/1d296936e8fa25471b51761e64fbeeaf0c28fc8a.gifv",
+    "https://64.media.tumblr.com/78d65c97f6b13fd9e75751a6818f4bca/6817d36cce11d0ae-09/s540x810/17f6ee6542be0fea6eb332f1f0718bb3e7d2df80.gifv",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
