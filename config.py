@@ -133,12 +133,12 @@ STATS_IMG_URL = getenv(
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://64.media.tumblr.com/79bb5c54237323c17c93af4c3c83671b/667b875d0810726a-86/s1280x1920/018a7062497c7599991eac83a4f41844484e90e7.gifv",
+    "https://64.media.tumblr.com/b8e78bf58dec48e94792d174403e7649/15f4d0cf6aea574f-bd/s1280x1920/d7f85c27009a3a6fd1d4f930448580887b42c7a2.gifv",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "https://64.media.tumblr.com/79bb5c54237323c17c93af4c3c83671b/667b875d0810726a-86/s1280x1920/018a7062497c7599991eac83a4f41844484e90e7.gifv",
+    "https://64.media.tumblr.com/b8e78bf58dec48e94792d174403e7649/15f4d0cf6aea574f-bd/s1280x1920/d7f85c27009a3a6fd1d4f930448580887b42c7a2.gifv",
 )
 
 STREAM_IMG_URL = getenv(
