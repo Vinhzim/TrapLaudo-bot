@@ -58,10 +58,10 @@ GIT_TOKEN = getenv(
 PRIVATE_BOT_MODE = getenv("PRIVATE_BOT_MODE", False)
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "restrito"
+    "SUPPORT_CHANNEL", "https://t.me/clubdaswinxcanal"
 )  # Example:- https://t.me/politicament
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "restrito"
+    "SUPPORT_GROUP", "https://t.me/winxmusicsupport"
 )  # Example:- https://t.me/politicament
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
